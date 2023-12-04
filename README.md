@@ -2,4 +2,4 @@
 
 ### Online CV and Portfolio
 
-[akvrmvlakis.github.io/my-resume](https://akvrmvlakis.github.io/myresume)
+[akvrmvlakis.github.io/my-resume](https://akvrmvlakis.github.io/my-resume)
