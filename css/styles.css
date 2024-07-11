@@ -11954,3 +11954,7 @@ textarea {
     transform: rotate(360deg);
   }
 }
+
+#contact {
+  margin-bottom: 6rem;
+}
